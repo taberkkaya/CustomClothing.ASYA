@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "furPtesEhSXvLLQLp1a4sZKExe5ymTj/EUocPyHmO0c=",
+  "Hash": "dqHO86qflLQZ84S952jkLSl2RLe/ALrUnxiB1TNZHzc=",
   "Source": "CustomClothing.ASYA",
   "BasePath": "_content/CustomClothing.ASYA",
   "Mode": "Default",
@@ -920,12 +920,12 @@
       "OriginalItemSpec": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\ProjectCollection\\CustomClothing.ASYA\\obj\\Debug\\net9.0\\compressed\\mwxuboo3cb-qw5li0vi37.gz",
+      "Identity": "C:\\ProjectCollection\\CustomClothing.ASYA\\obj\\Debug\\net9.0\\compressed\\mwxuboo3cb-5elzyvcq6e.gz",
       "SourceId": "CustomClothing.ASYA",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\ProjectCollection\\CustomClothing.ASYA\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/CustomClothing.ASYA",
-      "RelativePath": "css/site#[.{fingerprint=qw5li0vi37}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=5elzyvcq6e}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -934,8 +934,8 @@
       "RelatedAsset": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "8f6xbyk6hr",
-      "Integrity": "PO70jok5HT3wpXO1Z9cJXHc20/mfyydaEIkMgXJ00j8=",
+      "Fingerprint": "ndrj8f850l",
+      "Integrity": "W3VOlLZyJ6RTZghYxb9UbI7by44YGHotal+02pU/lNI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\css\\site.css"
@@ -1501,8 +1501,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "qw5li0vi37",
-      "Integrity": "KtM+q7XcRMMHioToG6/85nt/HuWY43dv/LuK37ZwqJM=",
+      "Fingerprint": "5elzyvcq6e",
+      "Integrity": "8yoAu/eVMy+52qJAcHuAwHGg0wvoBZDjmsHHptnfot0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1571,6 +1571,48 @@
       "OriginalItemSpec": "wwwroot\\img\\banner.webp"
     },
     {
+      "Identity": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\img\\dummy-logo-01.png",
+      "SourceId": "CustomClothing.ASYA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\",
+      "BasePath": "_content/CustomClothing.ASYA",
+      "RelativePath": "img/dummy-logo-01#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "terztg3wlx",
+      "Integrity": "hSLZvY9Xbi4PvWTIwp0oaD2WG1FbHi4+rEHcp4LzmoI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\dummy-logo-01.png"
+    },
+    {
+      "Identity": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\img\\dummy-logo-02.png",
+      "SourceId": "CustomClothing.ASYA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\",
+      "BasePath": "_content/CustomClothing.ASYA",
+      "RelativePath": "img/dummy-logo-02#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cmcbs8zwyq",
+      "Integrity": "XP9zzsBU1kLuy6wSEePDBKBnQL2vV9LlOIYNPe4Dpec=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\dummy-logo-02.png"
+    },
+    {
       "Identity": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\img\\logo.jpg",
       "SourceId": "CustomClothing.ASYA",
       "SourceType": "Discovered",
@@ -1590,48 +1632,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\logo.jpg"
-    },
-    {
-      "Identity": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\img\\ref-1.jpeg",
-      "SourceId": "CustomClothing.ASYA",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\",
-      "BasePath": "_content/CustomClothing.ASYA",
-      "RelativePath": "img/ref-1#[.{fingerprint}]?.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "qwp69w9v22",
-      "Integrity": "qkHrx1b+09Bl334SfzgTlpUz/U1SZGI1Vw86YHIKCZU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\ref-1.jpeg"
-    },
-    {
-      "Identity": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\img\\ref-2.jpeg",
-      "SourceId": "CustomClothing.ASYA",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\",
-      "BasePath": "_content/CustomClothing.ASYA",
-      "RelativePath": "img/ref-2#[.{fingerprint}]?.jpeg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "8bpty5seyx",
-      "Integrity": "nAQbz5lWWkGuvFWTZ5jH1HkYPuV+nizekm10/yGMlGY=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\ref-2.jpeg"
     },
     {
       "Identity": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\img\\tshirt-1.jpeg",
@@ -3299,13 +3299,13 @@
       ]
     },
     {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\ProjectCollection\\CustomClothing.ASYA\\obj\\Debug\\net9.0\\compressed\\mwxuboo3cb-qw5li0vi37.gz",
+      "Route": "css/site.5elzyvcq6e.css",
+      "AssetFile": "C:\\ProjectCollection\\CustomClothing.ASYA\\obj\\Debug\\net9.0\\compressed\\mwxuboo3cb-5elzyvcq6e.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001052631579"
+          "Quality": "0.000936329588"
         }
       ],
       "ResponseHeaders": [
@@ -3315,19 +3315,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "949"
+          "Value": "1067"
         },
         {
           "Name": "ETag",
-          "Value": "\"PO70jok5HT3wpXO1Z9cJXHc20/mfyydaEIkMgXJ00j8=\""
+          "Value": "\"W3VOlLZyJ6RTZghYxb9UbI7by44YGHotal+02pU/lNI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 04:44:58 GMT"
+          "Value": "Sun, 15 Dec 2024 08:04:16 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -3343,18 +3343,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"KtM+q7XcRMMHioToG6/85nt/HuWY43dv/LuK37ZwqJM=\""
+          "Value": "W/\"8yoAu/eVMy+52qJAcHuAwHGg0wvoBZDjmsHHptnfot0=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "5elzyvcq6e"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-KtM+q7XcRMMHioToG6/85nt/HuWY43dv/LuK37ZwqJM="
+          "Value": "sha256-8yoAu/eVMy+52qJAcHuAwHGg0wvoBZDjmsHHptnfot0="
         }
       ]
     },
     {
-      "Route": "css/site.css",
+      "Route": "css/site.5elzyvcq6e.css",
       "AssetFile": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3364,7 +3372,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3124"
+          "Value": "3566"
         },
         {
           "Name": "Content-Type",
@@ -3372,121 +3380,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KtM+q7XcRMMHioToG6/85nt/HuWY43dv/LuK37ZwqJM=\""
+          "Value": "\"8yoAu/eVMy+52qJAcHuAwHGg0wvoBZDjmsHHptnfot0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 04:44:58 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-KtM+q7XcRMMHioToG6/85nt/HuWY43dv/LuK37ZwqJM="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "C:\\ProjectCollection\\CustomClothing.ASYA\\obj\\Debug\\net9.0\\compressed\\mwxuboo3cb-qw5li0vi37.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "949"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PO70jok5HT3wpXO1Z9cJXHc20/mfyydaEIkMgXJ00j8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 04:44:58 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-PO70jok5HT3wpXO1Z9cJXHc20/mfyydaEIkMgXJ00j8="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.qw5li0vi37.css",
-      "AssetFile": "C:\\ProjectCollection\\CustomClothing.ASYA\\obj\\Debug\\net9.0\\compressed\\mwxuboo3cb-qw5li0vi37.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001052631579"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "949"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PO70jok5HT3wpXO1Z9cJXHc20/mfyydaEIkMgXJ00j8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 04:44:58 GMT"
+          "Value": "Sun, 15 Dec 2024 08:04:16 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"KtM+q7XcRMMHioToG6/85nt/HuWY43dv/LuK37ZwqJM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qw5li0vi37"
+          "Value": "5elzyvcq6e"
         },
         {
           "Name": "label",
@@ -3494,13 +3402,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KtM+q7XcRMMHioToG6/85nt/HuWY43dv/LuK37ZwqJM="
+          "Value": "sha256-8yoAu/eVMy+52qJAcHuAwHGg0wvoBZDjmsHHptnfot0="
         }
       ]
     },
     {
-      "Route": "css/site.qw5li0vi37.css",
-      "AssetFile": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\css\\site.css",
+      "Route": "css/site.5elzyvcq6e.css.gz",
+      "AssetFile": "C:\\ProjectCollection\\CustomClothing.ASYA\\obj\\Debug\\net9.0\\compressed\\mwxuboo3cb-5elzyvcq6e.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3509,7 +3417,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3124"
+          "Value": "1067"
         },
         {
           "Name": "Content-Type",
@@ -3517,56 +3425,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KtM+q7XcRMMHioToG6/85nt/HuWY43dv/LuK37ZwqJM=\""
+          "Value": "\"W3VOlLZyJ6RTZghYxb9UbI7by44YGHotal+02pU/lNI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 04:44:58 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "qw5li0vi37"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-KtM+q7XcRMMHioToG6/85nt/HuWY43dv/LuK37ZwqJM="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.qw5li0vi37.css.gz",
-      "AssetFile": "C:\\ProjectCollection\\CustomClothing.ASYA\\obj\\Debug\\net9.0\\compressed\\mwxuboo3cb-qw5li0vi37.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "949"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PO70jok5HT3wpXO1Z9cJXHc20/mfyydaEIkMgXJ00j8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 04:44:58 GMT"
+          "Value": "Sun, 15 Dec 2024 08:04:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3584,7 +3447,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qw5li0vi37"
+          "Value": "5elzyvcq6e"
         },
         {
           "Name": "label",
@@ -3592,7 +3455,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-PO70jok5HT3wpXO1Z9cJXHc20/mfyydaEIkMgXJ00j8="
+          "Value": "sha256-W3VOlLZyJ6RTZghYxb9UbI7by44YGHotal+02pU/lNI="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\ProjectCollection\\CustomClothing.ASYA\\obj\\Debug\\net9.0\\compressed\\mwxuboo3cb-5elzyvcq6e.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000936329588"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1067"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W3VOlLZyJ6RTZghYxb9UbI7by44YGHotal+02pU/lNI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 08:04:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8yoAu/eVMy+52qJAcHuAwHGg0wvoBZDjmsHHptnfot0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8yoAu/eVMy+52qJAcHuAwHGg0wvoBZDjmsHHptnfot0="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8yoAu/eVMy+52qJAcHuAwHGg0wvoBZDjmsHHptnfot0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 08:04:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8yoAu/eVMy+52qJAcHuAwHGg0wvoBZDjmsHHptnfot0="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "C:\\ProjectCollection\\CustomClothing.ASYA\\obj\\Debug\\net9.0\\compressed\\mwxuboo3cb-5elzyvcq6e.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1067"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W3VOlLZyJ6RTZghYxb9UbI7by44YGHotal+02pU/lNI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 08:04:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W3VOlLZyJ6RTZghYxb9UbI7by44YGHotal+02pU/lNI="
         }
       ]
     },
@@ -4655,6 +4655,170 @@
       ]
     },
     {
+      "Route": "img/dummy-logo-01.png",
+      "AssetFile": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\img\\dummy-logo-01.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hSLZvY9Xbi4PvWTIwp0oaD2WG1FbHi4+rEHcp4LzmoI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 05:03:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hSLZvY9Xbi4PvWTIwp0oaD2WG1FbHi4+rEHcp4LzmoI="
+        }
+      ]
+    },
+    {
+      "Route": "img/dummy-logo-01.terztg3wlx.png",
+      "AssetFile": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\img\\dummy-logo-01.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hSLZvY9Xbi4PvWTIwp0oaD2WG1FbHi4+rEHcp4LzmoI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 05:03:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "terztg3wlx"
+        },
+        {
+          "Name": "label",
+          "Value": "img/dummy-logo-01.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hSLZvY9Xbi4PvWTIwp0oaD2WG1FbHi4+rEHcp4LzmoI="
+        }
+      ]
+    },
+    {
+      "Route": "img/dummy-logo-02.cmcbs8zwyq.png",
+      "AssetFile": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\img\\dummy-logo-02.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3710"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XP9zzsBU1kLuy6wSEePDBKBnQL2vV9LlOIYNPe4Dpec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 05:03:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cmcbs8zwyq"
+        },
+        {
+          "Name": "label",
+          "Value": "img/dummy-logo-02.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XP9zzsBU1kLuy6wSEePDBKBnQL2vV9LlOIYNPe4Dpec="
+        }
+      ]
+    },
+    {
+      "Route": "img/dummy-logo-02.png",
+      "AssetFile": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\img\\dummy-logo-02.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3710"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XP9zzsBU1kLuy6wSEePDBKBnQL2vV9LlOIYNPe4Dpec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 15 Dec 2024 05:03:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XP9zzsBU1kLuy6wSEePDBKBnQL2vV9LlOIYNPe4Dpec="
+        }
+      ]
+    },
+    {
       "Route": "img/logo.jpg",
       "AssetFile": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\img\\logo.jpg",
       "Selectors": [],
@@ -4733,170 +4897,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-NKEbF5JZCYg88ve0k6BUpib/aji3m1R639c0vMDEFpM="
-        }
-      ]
-    },
-    {
-      "Route": "img/ref-1.jpeg",
-      "AssetFile": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\img\\ref-1.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8989"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qkHrx1b+09Bl334SfzgTlpUz/U1SZGI1Vw86YHIKCZU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 04:07:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-qkHrx1b+09Bl334SfzgTlpUz/U1SZGI1Vw86YHIKCZU="
-        }
-      ]
-    },
-    {
-      "Route": "img/ref-1.qwp69w9v22.jpeg",
-      "AssetFile": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\img\\ref-1.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8989"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qkHrx1b+09Bl334SfzgTlpUz/U1SZGI1Vw86YHIKCZU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 04:07:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "qwp69w9v22"
-        },
-        {
-          "Name": "label",
-          "Value": "img/ref-1.jpeg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-qkHrx1b+09Bl334SfzgTlpUz/U1SZGI1Vw86YHIKCZU="
-        }
-      ]
-    },
-    {
-      "Route": "img/ref-2.8bpty5seyx.jpeg",
-      "AssetFile": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\img\\ref-2.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3868"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"nAQbz5lWWkGuvFWTZ5jH1HkYPuV+nizekm10/yGMlGY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 04:07:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "8bpty5seyx"
-        },
-        {
-          "Name": "label",
-          "Value": "img/ref-2.jpeg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-nAQbz5lWWkGuvFWTZ5jH1HkYPuV+nizekm10/yGMlGY="
-        }
-      ]
-    },
-    {
-      "Route": "img/ref-2.jpeg",
-      "AssetFile": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\img\\ref-2.jpeg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3868"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"nAQbz5lWWkGuvFWTZ5jH1HkYPuV+nizekm10/yGMlGY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 15 Dec 2024 04:07:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-nAQbz5lWWkGuvFWTZ5jH1HkYPuV+nizekm10/yGMlGY="
         }
       ]
     },

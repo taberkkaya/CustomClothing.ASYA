@@ -6,6 +6,8 @@
 }
 
 html {
+  padding: 0;
+  margin: 0;
   font-size: 14px;
   scroll-behavior: smooth;
 }
@@ -91,14 +93,21 @@ html {
     padding: 0.5px;
   }
 
-  .nav-link.active {
+  nav .nav-link.active {
     border-bottom: 1px var(--primary-color) solid;
   }
 
-  .navbar-nav .nav-item .nav-link:hover:not(.active) {
+  nav .navbar-nav .nav-item .nav-link:hover:not(.active) {
     background-color: var(--primary-color);
     color: var(--light-color);
     border-radius: 2px;
+  }
+
+  nav {
+    position: sticky !important;
+    top: 0;
+    left: 0;
+    z-index: 10;
   }
 }
 
@@ -115,12 +124,12 @@ html {
     width: 100%;
   }
 
-  .nav-item:not(.active):not(:last-child) {
+  nav .nav-item:not(.active):not(:last-child) {
     margin-top: 0.5px;
     border-bottom: 1px var(--primary-color) solid;
   }
 
-  .navbar-nav .nav-item .nav-link.active {
+  nav .navbar-nav .nav-item .nav-link.active {
     background-color: var(--primary-color);
     color: #fff;
     border-radius: 2px;
@@ -136,6 +145,22 @@ html {
     object-fit: cover;
     object-position: center;
     overflow: hidden;
+  }
+
+  #footer .container .row:first-child img {
+    display: grid;
+    justify-self: center;
+  }
+
+  #footer .container .row #socials .navbar-nav {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+  }
+
+  #footer .container .row .col-md-3:not(:last-child) {
+    margin-top: 3px;
+    border-bottom: 1px var(--secondary-color) dotted;
   }
 }
 
@@ -153,7 +178,10 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  position: relative;
   background-color: var(--color);
 }
 
@@ -189,4 +217,23 @@ nav {
 #references {
   background-color: var(--light-color);
   padding: 10px;
+}
+
+#footer {
+  margin-bottom: 0;
+  padding: 20px;
+  background-color: var(--light-color);
+}
+
+#footer img {
+  height: 100px;
+}
+
+#footer .links ul {
+  padding-inline: 0;
+  list-style-type: none;
+}
+
+#footer .links ul li:not(:last-child) {
+  border-bottom: 1px var(--primary-color) dotted;
 }

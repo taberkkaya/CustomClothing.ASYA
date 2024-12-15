@@ -25,16 +25,16 @@
       "PackagePath": "staticwebassets\\img\\banner.webp"
     },
     {
+      "Id": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\img\\dummy-logo-01.png",
+      "PackagePath": "staticwebassets\\img\\dummy-logo-01.png"
+    },
+    {
+      "Id": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\img\\dummy-logo-02.png",
+      "PackagePath": "staticwebassets\\img\\dummy-logo-02.png"
+    },
+    {
       "Id": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\img\\logo.jpg",
       "PackagePath": "staticwebassets\\img\\logo.jpg"
-    },
-    {
-      "Id": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\img\\ref-1.jpeg",
-      "PackagePath": "staticwebassets\\img\\ref-1.jpeg"
-    },
-    {
-      "Id": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\img\\ref-2.jpeg",
-      "PackagePath": "staticwebassets\\img\\ref-2.jpeg"
     },
     {
       "Id": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\img\\tshirt-1.jpeg",
