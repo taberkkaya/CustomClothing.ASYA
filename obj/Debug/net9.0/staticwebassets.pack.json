@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\CustomClothing.ASYA.qoabl3ft8v.bundle.scp.css"
     },
     {
+      "Id": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
       "Id": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -25,12 +29,28 @@
       "PackagePath": "staticwebassets\\img\\logo.jpg"
     },
     {
+      "Id": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\img\\ref-1.jpeg",
+      "PackagePath": "staticwebassets\\img\\ref-1.jpeg"
+    },
+    {
+      "Id": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\img\\ref-2.jpeg",
+      "PackagePath": "staticwebassets\\img\\ref-2.jpeg"
+    },
+    {
       "Id": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\img\\tshirt-1.jpeg",
       "PackagePath": "staticwebassets\\img\\tshirt-1.jpeg"
     },
     {
       "Id": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\img\\tshirt-on-model-1.jpg",
       "PackagePath": "staticwebassets\\img\\tshirt-on-model-1.jpg"
+    },
+    {
+      "Id": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.js"
     },
     {
       "Id": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\js\\site.js",

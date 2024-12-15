@@ -17,7 +17,6 @@ C:\ProjectCollection\CustomClothing.ASYA\obj\Debug\net9.0\CustomClothing.ASYA.Ra
 C:\ProjectCollection\CustomClothing.ASYA\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\ProjectCollection\CustomClothing.ASYA\obj\Debug\net9.0\scopedcss\bundle\CustomClothing.ASYA.styles.css
 C:\ProjectCollection\CustomClothing.ASYA\obj\Debug\net9.0\scopedcss\projectbundle\CustomClothing.ASYA.bundle.scp.css
-C:\ProjectCollection\CustomClothing.ASYA\obj\Debug\net9.0\compressed\mwxuboo3cb-b9sayid5wm.gz
 C:\ProjectCollection\CustomClothing.ASYA\obj\Debug\net9.0\compressed\si1ecrs794-61n19gt1b8.gz
 C:\ProjectCollection\CustomClothing.ASYA\obj\Debug\net9.0\compressed\pv0vxxywbm-xtxxf3hu2r.gz
 C:\ProjectCollection\CustomClothing.ASYA\obj\Debug\net9.0\compressed\ifw449fi5k-bqjiyaj88i.gz
@@ -95,3 +94,8 @@ C:\ProjectCollection\CustomClothing.ASYA\obj\Debug\net9.0\refint\CustomClothing.
 C:\ProjectCollection\CustomClothing.ASYA\obj\Debug\net9.0\CustomClothing.ASYA.pdb
 C:\ProjectCollection\CustomClothing.ASYA\obj\Debug\net9.0\CustomClothing.ASYA.genruntimeconfig.cache
 C:\ProjectCollection\CustomClothing.ASYA\obj\Debug\net9.0\ref\CustomClothing.ASYA.dll
+C:\ProjectCollection\CustomClothing.ASYA\obj\Debug\net9.0\CustomClothing.ASYA.sourcelink.json
+C:\ProjectCollection\CustomClothing.ASYA\obj\Debug\net9.0\compressed\a3za54mxea-tlykepu9md.gz
+C:\ProjectCollection\CustomClothing.ASYA\obj\Debug\net9.0\compressed\o777cmspbh-fc9074g7ds.gz
+C:\ProjectCollection\CustomClothing.ASYA\obj\Debug\net9.0\compressed\sfpnmgw8av-1zs37u8ins.gz
+C:\ProjectCollection\CustomClothing.ASYA\obj\Debug\net9.0\compressed\mwxuboo3cb-qw5li0vi37.gz
