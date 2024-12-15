@@ -12,17 +12,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tlykepu9md"},{"Name":"integrity","Value":"sha256-Md6NvP/\u002B05cN1uVggMobnWMPmp72aAhvnkSC4KcWUEI="},{"Name":"label","Value":"_content/CustomClothing.ASYA/css/owl.carousel.min.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4103"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Md6NvP/\u002B05cN1uVggMobnWMPmp72aAhvnkSC4KcWUEI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 15 Dec 2024 03:57:53 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CustomClothing.ASYA/css/site.5elzyvcq6e.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5elzyvcq6e"},{"Name":"integrity","Value":"sha256-8yoAu/eVMy\u002B52qJAcHuAwHGg0wvoBZDjmsHHptnfot0="},{"Name":"label","Value":"_content/CustomClothing.ASYA/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3566"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00228yoAu/eVMy\u002B52qJAcHuAwHGg0wvoBZDjmsHHptnfot0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 15 Dec 2024 08:04:16 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CustomClothing.ASYA/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8yoAu/eVMy\u002B52qJAcHuAwHGg0wvoBZDjmsHHptnfot0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3566"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00228yoAu/eVMy\u002B52qJAcHuAwHGg0wvoBZDjmsHHptnfot0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 15 Dec 2024 08:04:16 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-GTD0tXrtTp0IjXaOKI09fewRY\u002BU924B1t/wqlIgS560="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4406"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022GTD0tXrtTp0IjXaOKI09fewRY\u002BU924B1t/wqlIgS560=\u0022"},{"Name":"Last-Modified","Value":"Sun, 15 Dec 2024 09:02:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CustomClothing.ASYA/css/site.tbfiquszpf.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tbfiquszpf"},{"Name":"integrity","Value":"sha256-GTD0tXrtTp0IjXaOKI09fewRY\u002BU924B1t/wqlIgS560="},{"Name":"label","Value":"_content/CustomClothing.ASYA/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4406"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022GTD0tXrtTp0IjXaOKI09fewRY\u002BU924B1t/wqlIgS560=\u0022"},{"Name":"Last-Modified","Value":"Sun, 15 Dec 2024 09:02:50 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CustomClothing.ASYA/CustomClothing.ASYA.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CustomClothing.ASYA.qoabl3ft8v.bundle.scp.css'))</AssetFile>

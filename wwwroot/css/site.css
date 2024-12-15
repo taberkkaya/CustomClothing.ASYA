@@ -33,6 +33,16 @@ html {
   background-color: var(--secondary-color);
 }
 
+.all-product-btn {
+  margin-top: 5px;
+  display: grid;
+  justify-content: center;
+}
+
+.all-product-btn a {
+  font-size: 1.2rem;
+}
+
 #header .header-container {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
