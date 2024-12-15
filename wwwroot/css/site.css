@@ -1,0 +1,140 @@
+:root {
+  --primary-color: #0abfe5;
+  --secondary-color: #a6a6a6;
+  --light-color: #ffff;
+}
+
+html {
+  font-size: 14px;
+}
+
+.navbar-brand {
+  margin: 0;
+}
+
+#header {
+  color: #fff;
+  background: #333;
+  padding: 2rem;
+  position: relative;
+}
+
+.c-btn-primary {
+  background-color: var(--primary-color);
+  color: var(--light-color);
+}
+
+.c-btn-primary:hover {
+  color: var(--light-color);
+  background-color: var(--secondary-color);
+}
+
+#header .header-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  height: 50vh;
+  align-items: center;
+}
+
+#header .header-content {
+  position: absolute;
+  justify-self: center;
+  text-align: center;
+  max-height: 100%;
+  z-index: 2;
+}
+
+#header:before {
+  content: "";
+  background: url("../img/banner.webp") no-repeat center center/cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0.4;
+}
+
+@media (min-width: 769px) {
+  html {
+    font-size: 16px;
+  }
+
+  .navbar-nav {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .navbar-nav .nav-item {
+    margin-left: 1rem;
+    padding: 0.5px;
+  }
+
+  .nav-link.active {
+    border-bottom: 1px var(--primary-color) solid;
+  }
+
+  .navbar-nav .nav-item .nav-link:hover:not(.active) {
+    background-color: var(--primary-color);
+    color: var(--light-color);
+    border-radius: 2px;
+  }
+}
+
+@media (max-width: 768px) {
+  .navbar .container {
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .navbar-nav {
+    margin-top: 10px;
+    width: 100%;
+  }
+
+  .nav-item:not(.active) {
+    margin-top: 0.5px;
+    border-bottom: 1px var(--primary-color) solid;
+  }
+
+  .navbar-nav .nav-item .nav-link.active {
+    background-color: var(--primary-color);
+    color: #fff;
+    border-radius: 2px;
+  }
+}
+
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background-color: #999;
+}
+
+nav {
+  background-color: #fff;
+}
+
+.form-floating > .form-control-plaintext::placeholder,
+.form-floating > .form-control::placeholder {
+  color: var(--bs-secondary-color);
+  text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder,
+.form-floating > .form-control:focus::placeholder {
+  text-align: start;
+}
