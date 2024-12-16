@@ -43,6 +43,76 @@ html {
   font-size: 1.2rem;
 }
 
+.card .img-wrap {
+  height: 240px;
+}
+
+.img-wrap {
+  position: relative;
+  display: block;
+  padding: 1rem;
+  text-align: center;
+}
+
+.img-wrap .badge {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.card .img-wrap img {
+  height: 100%;
+  width: auto;
+  max-width: 100%;
+  object-fit: cover;
+}
+
+.card .title {
+  display: block;
+  text-decoration: none;
+  color: #51585e;
+}
+
+.gallery-wrap .img-big-wrap {
+  display: block;
+  width: 100%;
+  margin-bottom: 1rem;
+  text-align: center;
+  background-color: #fff;
+}
+
+.gallery-wrap .img-big-wrap a {
+  display: block;
+  height: 100%;
+  text-align: center;
+}
+
+.gallery-wrap .thumbs-wrap a {
+  width: 60px;
+  height: 60px;
+  border: 1px solid #dde2e6;
+  border-radius: 0.4rem;
+  margin: 3px;
+  display: inline-block;
+  overflow: hidden;
+}
+
+.gallery-wrap .thumbs-wrap img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+  cursor: zoom-in;
+}
+
+#products .card {
+  margin: 0;
+  padding: 0;
+}
+
+.card .info-wrap {
+  padding: 1rem 1.2rem;
+}
+
 #header .header-container {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
