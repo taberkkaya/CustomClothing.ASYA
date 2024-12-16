@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VqJhvLPHVSsu38gbhUFpY6v2L4c0gi0L2bzs9u3aRZA=",
+  "Hash": "hz4DnyOrFncuvPwt8t1YC+KQ4LLzoizL6yTfcfIukEU=",
   "Source": "CustomClothing.ASYA",
   "BasePath": "_content/CustomClothing.ASYA",
   "Mode": "Default",
@@ -941,12 +941,12 @@
       "OriginalItemSpec": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\ProjectCollection\\CustomClothing.ASYA\\obj\\Debug\\net9.0\\compressed\\mwxuboo3cb-kx92bdild8.gz",
+      "Identity": "C:\\ProjectCollection\\CustomClothing.ASYA\\obj\\Debug\\net9.0\\compressed\\mwxuboo3cb-svhweye0d9.gz",
       "SourceId": "CustomClothing.ASYA",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\ProjectCollection\\CustomClothing.ASYA\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/CustomClothing.ASYA",
-      "RelativePath": "css/site#[.{fingerprint=kx92bdild8}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=svhweye0d9}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -955,8 +955,8 @@
       "RelatedAsset": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "lejwp3ska4",
-      "Integrity": "w3Brqmpr383qhVrfe8Bcre4q/4aCd7ePrUTfov19JLY=",
+      "Fingerprint": "5lnaj4apxy",
+      "Integrity": "Fwczez+KXbrpkfR0WBxiSfrgHSyXn48nh3dOmIrStcg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\css\\site.css"
@@ -1522,8 +1522,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "kx92bdild8",
-      "Integrity": "OMLSotIZjxiR+BZnan/ooCcuzqoZlLYCJxKqWFmRnkU=",
+      "Fingerprint": "svhweye0d9",
+      "Integrity": "eGdkw1LEAdy6Hjh75bKqERk1dlll/RlTaUbxlyV7X9s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -3342,12 +3342,12 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\ProjectCollection\\CustomClothing.ASYA\\obj\\Debug\\net9.0\\compressed\\mwxuboo3cb-kx92bdild8.gz",
+      "AssetFile": "C:\\ProjectCollection\\CustomClothing.ASYA\\obj\\Debug\\net9.0\\compressed\\mwxuboo3cb-svhweye0d9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000727802038"
+          "Quality": "0.000615006150"
         }
       ],
       "ResponseHeaders": [
@@ -3357,15 +3357,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1373"
+          "Value": "1625"
         },
         {
           "Name": "ETag",
-          "Value": "\"w3Brqmpr383qhVrfe8Bcre4q/4aCd7ePrUTfov19JLY=\""
+          "Value": "\"Fwczez+KXbrpkfR0WBxiSfrgHSyXn48nh3dOmIrStcg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Dec 2024 04:05:36 GMT"
+          "Value": "Mon, 16 Dec 2024 17:18:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3385,13 +3385,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"OMLSotIZjxiR+BZnan/ooCcuzqoZlLYCJxKqWFmRnkU=\""
+          "Value": "W/\"eGdkw1LEAdy6Hjh75bKqERk1dlll/RlTaUbxlyV7X9s=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OMLSotIZjxiR+BZnan/ooCcuzqoZlLYCJxKqWFmRnkU="
+          "Value": "sha256-eGdkw1LEAdy6Hjh75bKqERk1dlll/RlTaUbxlyV7X9s="
         }
       ]
     },
@@ -3406,7 +3406,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5150"
+          "Value": "6585"
         },
         {
           "Name": "Content-Type",
@@ -3414,11 +3414,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OMLSotIZjxiR+BZnan/ooCcuzqoZlLYCJxKqWFmRnkU=\""
+          "Value": "\"eGdkw1LEAdy6Hjh75bKqERk1dlll/RlTaUbxlyV7X9s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Dec 2024 04:05:36 GMT"
+          "Value": "Mon, 16 Dec 2024 17:18:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3428,13 +3428,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OMLSotIZjxiR+BZnan/ooCcuzqoZlLYCJxKqWFmRnkU="
+          "Value": "sha256-eGdkw1LEAdy6Hjh75bKqERk1dlll/RlTaUbxlyV7X9s="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\ProjectCollection\\CustomClothing.ASYA\\obj\\Debug\\net9.0\\compressed\\mwxuboo3cb-kx92bdild8.gz",
+      "AssetFile": "C:\\ProjectCollection\\CustomClothing.ASYA\\obj\\Debug\\net9.0\\compressed\\mwxuboo3cb-svhweye0d9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3443,7 +3443,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1373"
+          "Value": "1625"
         },
         {
           "Name": "Content-Type",
@@ -3451,11 +3451,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"w3Brqmpr383qhVrfe8Bcre4q/4aCd7ePrUTfov19JLY=\""
+          "Value": "\"Fwczez+KXbrpkfR0WBxiSfrgHSyXn48nh3dOmIrStcg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Dec 2024 04:05:36 GMT"
+          "Value": "Mon, 16 Dec 2024 17:18:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3473,18 +3473,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-w3Brqmpr383qhVrfe8Bcre4q/4aCd7ePrUTfov19JLY="
+          "Value": "sha256-Fwczez+KXbrpkfR0WBxiSfrgHSyXn48nh3dOmIrStcg="
         }
       ]
     },
     {
-      "Route": "css/site.kx92bdild8.css",
-      "AssetFile": "C:\\ProjectCollection\\CustomClothing.ASYA\\obj\\Debug\\net9.0\\compressed\\mwxuboo3cb-kx92bdild8.gz",
+      "Route": "css/site.svhweye0d9.css",
+      "AssetFile": "C:\\ProjectCollection\\CustomClothing.ASYA\\obj\\Debug\\net9.0\\compressed\\mwxuboo3cb-svhweye0d9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000727802038"
+          "Quality": "0.000615006150"
         }
       ],
       "ResponseHeaders": [
@@ -3494,15 +3494,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1373"
+          "Value": "1625"
         },
         {
           "Name": "ETag",
-          "Value": "\"w3Brqmpr383qhVrfe8Bcre4q/4aCd7ePrUTfov19JLY=\""
+          "Value": "\"Fwczez+KXbrpkfR0WBxiSfrgHSyXn48nh3dOmIrStcg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Dec 2024 04:05:36 GMT"
+          "Value": "Mon, 16 Dec 2024 17:18:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3522,13 +3522,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"OMLSotIZjxiR+BZnan/ooCcuzqoZlLYCJxKqWFmRnkU=\""
+          "Value": "W/\"eGdkw1LEAdy6Hjh75bKqERk1dlll/RlTaUbxlyV7X9s=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kx92bdild8"
+          "Value": "svhweye0d9"
         },
         {
           "Name": "label",
@@ -3536,12 +3536,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-OMLSotIZjxiR+BZnan/ooCcuzqoZlLYCJxKqWFmRnkU="
+          "Value": "sha256-eGdkw1LEAdy6Hjh75bKqERk1dlll/RlTaUbxlyV7X9s="
         }
       ]
     },
     {
-      "Route": "css/site.kx92bdild8.css",
+      "Route": "css/site.svhweye0d9.css",
       "AssetFile": "C:\\ProjectCollection\\CustomClothing.ASYA\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3551,7 +3551,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5150"
+          "Value": "6585"
         },
         {
           "Name": "Content-Type",
@@ -3559,11 +3559,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OMLSotIZjxiR+BZnan/ooCcuzqoZlLYCJxKqWFmRnkU=\""
+          "Value": "\"eGdkw1LEAdy6Hjh75bKqERk1dlll/RlTaUbxlyV7X9s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Dec 2024 04:05:36 GMT"
+          "Value": "Mon, 16 Dec 2024 17:18:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3573,7 +3573,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kx92bdild8"
+          "Value": "svhweye0d9"
         },
         {
           "Name": "label",
@@ -3581,13 +3581,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-OMLSotIZjxiR+BZnan/ooCcuzqoZlLYCJxKqWFmRnkU="
+          "Value": "sha256-eGdkw1LEAdy6Hjh75bKqERk1dlll/RlTaUbxlyV7X9s="
         }
       ]
     },
     {
-      "Route": "css/site.kx92bdild8.css.gz",
-      "AssetFile": "C:\\ProjectCollection\\CustomClothing.ASYA\\obj\\Debug\\net9.0\\compressed\\mwxuboo3cb-kx92bdild8.gz",
+      "Route": "css/site.svhweye0d9.css.gz",
+      "AssetFile": "C:\\ProjectCollection\\CustomClothing.ASYA\\obj\\Debug\\net9.0\\compressed\\mwxuboo3cb-svhweye0d9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3596,7 +3596,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1373"
+          "Value": "1625"
         },
         {
           "Name": "Content-Type",
@@ -3604,11 +3604,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"w3Brqmpr383qhVrfe8Bcre4q/4aCd7ePrUTfov19JLY=\""
+          "Value": "\"Fwczez+KXbrpkfR0WBxiSfrgHSyXn48nh3dOmIrStcg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 16 Dec 2024 04:05:36 GMT"
+          "Value": "Mon, 16 Dec 2024 17:18:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3626,7 +3626,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kx92bdild8"
+          "Value": "svhweye0d9"
         },
         {
           "Name": "label",
@@ -3634,7 +3634,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-w3Brqmpr383qhVrfe8Bcre4q/4aCd7ePrUTfov19JLY="
+          "Value": "sha256-Fwczez+KXbrpkfR0WBxiSfrgHSyXn48nh3dOmIrStcg="
         }
       ]
     },

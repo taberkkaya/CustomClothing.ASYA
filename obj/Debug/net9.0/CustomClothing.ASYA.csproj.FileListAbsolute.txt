@@ -99,4 +99,4 @@ C:\ProjectCollection\CustomClothing.ASYA\obj\Debug\net9.0\compressed\a3za54mxea-
 C:\ProjectCollection\CustomClothing.ASYA\obj\Debug\net9.0\compressed\o777cmspbh-fc9074g7ds.gz
 C:\ProjectCollection\CustomClothing.ASYA\obj\Debug\net9.0\compressed\sfpnmgw8av-1zs37u8ins.gz
 C:\ProjectCollection\CustomClothing.ASYA\obj\Debug\net9.0\compressed\j96i72nil1-5kixkqmf43.gz
-C:\ProjectCollection\CustomClothing.ASYA\obj\Debug\net9.0\compressed\mwxuboo3cb-kx92bdild8.gz
+C:\ProjectCollection\CustomClothing.ASYA\obj\Debug\net9.0\compressed\mwxuboo3cb-svhweye0d9.gz
